@@ -14,11 +14,21 @@
     
         .header__logo{
             color: black;
-            font-size: 45px;
+            font-size: 25px;
             font-weight: 700;
             font-family: 'Fredoka One', cursive;
+            max-width: 100px;
         }
-         
+        .cartIcon{
+            max-width: 50px;
+        }
+        .contador{
+            text-align: center;
+            margin-bottom: 0;
+        }
+        .logo__container{
+            display: flex;
+        }
         .navbar{
             display: flex;
             align-items: center;
