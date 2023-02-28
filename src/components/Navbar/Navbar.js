@@ -16,10 +16,10 @@ export const Navbar = () => {
                 <nav className="navbar">
                     <a href="#" className="navbar__link">Inicio</a>
                     <a href="#" className="navbar__link">Mates</a>
-                    <a href="#" className="navbar__link">Sobre nosotros</a>
-                    <a href="#" className="navbar__link">Contacto</a>
+                    <a href="#" className="navbar__link">Bombillas</a>
+                    <a href="#" className="navbar__link">Accesorios</a>
                 </nav>
-                
+
             <CartWidget/>
             </div>
         </header>
