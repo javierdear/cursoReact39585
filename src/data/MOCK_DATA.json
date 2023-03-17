@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "name": "Mate Camionero",
+    "price": 9200,
+    "description": "Mate de madera...",
+    "material": "Madera",
+    "image": "./imagenes/mate_camionero.jpg",
+    "stock": 10
+  },
+  {
+    "id": 2,
+    "name": "Mate Imperial",
+    "price": 10900,
+    "description": "Mate de madera...",
+    "material": "Madera",
+    "image": "./imagenes/mate_camionero.jpg",
+    "stock": 10
+  },
+  {
+    "id": 3,
+    "name": "Mate Imperial Liso",
+    "price": 9999,
+    "description": "Mate de madera...",
+    "material": "Madera",
+    "image": "./imagenes/mate_camionero.jpg",
+    "stock": 11
+  },
+  {
+    "id": 4,
+    "name": "Mate Torpedo",
+    "price": 8999,
+    "description": "Mate de madera...",
+    "material": "Madera",
+    "image": "./imagenes/mate_camionero.jpg/",
+    "stock": 10
+  },
+  {
+    "id": 5,
+    "name": "Mate Torpedo Cincelado",
+    "price": 12000,
+    "description": "Mate de madera...",
+    "material": "Madera",
+    "image": "./imagenes/mate_camionero.jpg/",
+    "stock": 10
+  }
+]
